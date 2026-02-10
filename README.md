@@ -16,5 +16,5 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 👉https://assiantadarsh.github.io/Simple---Calculator/
 
 ## 📂 Source Code
-👉 https://github.com/adarshshukla/Simple-Calculator
+👉 https://github.com/adarshshukla/Simple---Calculator
 
